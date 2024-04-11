@@ -1,0 +1,23 @@
+[
+    {
+        "name": "The Great Gatsby",
+        "page_count": 180,
+        "category": "Fiction",
+        "author_name": "F. Scott Fitzgerald",
+        "price": 12.99
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "page_count": 281,
+        "category": "Fiction",
+        "author_name": "Harper Lee",
+        "price": 10.50
+    },
+    {
+        "name": "1984",
+        "page_count": 328,
+        "category": "Dystopian",
+        "author_name": "George Orwell",
+        "price": 9.99
+    }
+]
