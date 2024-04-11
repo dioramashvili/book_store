@@ -10,5 +10,6 @@ class Book(models.Model):
     # image = models.ImageField(upload_to='books/')
     DisplayFields = ['name', 'page_count', 'category', 'author_name', 'price']
 
+
     def __str__(self):
         return self.name
